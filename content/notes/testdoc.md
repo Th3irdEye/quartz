@@ -1,4 +1,6 @@
 ---
 title: "testdoc"
+tags:
+- testing
 ---
-this is a test
+this is a test doc
