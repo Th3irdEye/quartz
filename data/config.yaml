@@ -1,13 +1,13 @@
-name: Jacky Zhao
+name: Alex McAuslin
 enableToc: true
 enableLinkPreview: true
 description:
   Here is the page description. This is an example Quartz site that details installation,
   setup, customization, and troubleshooting for Quartz itself.
 page_title:
-  "🪴 Quartz 3"
+  "🖥️ McServer Knowledge Base"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: McServer
+    link: https://mcserv.in/
+  - link_name: The Horizon
+    link: https://wearethehorizon.com/
