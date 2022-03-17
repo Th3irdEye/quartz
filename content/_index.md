@@ -19,6 +19,8 @@ If you prefer browsing the contents of this site through a list instead of a gra
 
 - [All Notes](/notes)
 - [Setup-related Notes](/tags/setup)
+- [Testing](/tags/testing)
+- [Extra-Life](/tags/Extra-Life)
 
 ## Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
