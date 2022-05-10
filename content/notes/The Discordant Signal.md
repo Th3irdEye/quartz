@@ -7,7 +7,7 @@ tags:
 
 ### Notes for The Discordant Signal Monday night campaign.
 
-##### 3.21.22
+#### 3.21.22
 Warden didn't alert anyone on the prison.
 Sedona-17
 	- Rememberd being in the prison and Aurelos
