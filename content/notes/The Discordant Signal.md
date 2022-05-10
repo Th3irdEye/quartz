@@ -1,5 +1,6 @@
 ---
 title: "The Discordant Signal"
+enableToc: false
 tags:
 - starfinder
 - RPG
