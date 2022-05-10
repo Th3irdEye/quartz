@@ -16,11 +16,11 @@ Hassachir
 	- test
 Feal'c not Teal'c
 
-##### 4.4.22
+#### 4.4.22
 Hassachir transformed into Grasilex and tried to kill us
 Member of the Th3irdEye Scrappers
 
-##### 4.18.22
+#### 4.18.22
 We start with a battle. It seems they are casters. They are using dark matter to gain DR.
 Glowing wisps have been cast and are attached to us.
 
@@ -30,7 +30,7 @@ Sardat Zolon Ulovestra - paid Scralen to take us out
 		Bought an astroid and renamed it Ulovestra
 		we have coordinates to get there now
 
-##### 5.09.22
+#### 5.09.22
 Sedona played by Chad finally joins the campaign.
 Sardat Zolon Ulovestra has the Rune Drive right now
 	They are trying to reverse engineer it
